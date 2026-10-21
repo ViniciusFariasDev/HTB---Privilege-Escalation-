@@ -9,3 +9,6 @@ Skills: TCP Scanning, Network Enumeration, Host Discovery, Service Identificatio
 
 #Cybersecurity #EthicalHacking #Nmap #HTBAcademy #PenetrationTesting
 
+<img width="906" height="396" alt="image" src="https://github.com/user-attachments/assets/0b23025f-140a-4c2a-adcc-a955bbc94a7a" />
+
+<img width="1010" height="504" alt="image" src="https://github.com/user-attachments/assets/b7cd0912-31ba-4163-a502-0a5d15008ffb" />
